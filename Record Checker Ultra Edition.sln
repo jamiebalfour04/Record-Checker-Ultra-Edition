@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Record Checker Ultra Edition", "Record Checker Ultra Edition\Record Checker Ultra Edition.vbproj", "{FB762A31-E3D6-4C5F-8D76-D41A3291EC0C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Record Checker Ultra Edition setup", "Record Checker Ultra Edition setup\Record Checker Ultra Edition setup.vdproj", "{78CE78C4-7D95-4D13-B5BE-C448AA146F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB762A31-E3D6-4C5F-8D76-D41A3291EC0C}.Debug|x86.ActiveCfg = Debug|x86
+		{FB762A31-E3D6-4C5F-8D76-D41A3291EC0C}.Debug|x86.Build.0 = Debug|x86
+		{FB762A31-E3D6-4C5F-8D76-D41A3291EC0C}.Release|x86.ActiveCfg = Release|x86
+		{FB762A31-E3D6-4C5F-8D76-D41A3291EC0C}.Release|x86.Build.0 = Release|x86
+		{78CE78C4-7D95-4D13-B5BE-C448AA146F41}.Debug|x86.ActiveCfg = Debug
+		{78CE78C4-7D95-4D13-B5BE-C448AA146F41}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
